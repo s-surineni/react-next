@@ -1,4 +1,5 @@
+import App from "../components/app";
 
-const Page = () => {}
+const Page = () => <App />
 
 export default Page;
